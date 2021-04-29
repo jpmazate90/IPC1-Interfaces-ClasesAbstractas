@@ -12,6 +12,7 @@ import javax.swing.JTextArea;
 /**
  *
  * @author jpmazate
+ * @param <T>
  */
 public class Lista<T> implements Serializable {
     

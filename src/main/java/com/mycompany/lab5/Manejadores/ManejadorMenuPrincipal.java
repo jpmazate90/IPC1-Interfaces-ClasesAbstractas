@@ -35,6 +35,7 @@ public class ManejadorMenuPrincipal {
         } else {
             frame.getLista().agregarAlFinal(animal);
         }
+        mostrarLista();
 
     }
 
